@@ -29,6 +29,9 @@
 📌 [**30 Days of Python**](https://github.com/TUF-SCAR/30_Days_of_Python)  
 A daily grind repo where I practice Python fundamentals and track my progress.
 
+🧠 [Jarvis-Local ⚙️](https://github.com/TUF-SCAR/Jarvis_Local)
+A privacy-first **offline PC assistant** built in Python.
+
 ---
 
 <div align="center">
