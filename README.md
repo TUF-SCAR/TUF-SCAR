@@ -30,9 +30,15 @@
 
 A daily grind repo where I practice Python fundamentals and track my progress.
 
-🧠 [Jarvis-Local ⚙️](https://github.com/TUF-SCAR/Jarvis_Local)
+🧠 [**Jarvis-Local ⚙️**](https://github.com/TUF-SCAR/Jarvis_Local)  
 
 A privacy-first **offline PC assistant** built in Python.
+
+🔒 [**Lock: Hoshikawa’s Breathing Curse**](https://github.com/TUF-SCAR/Hoshikawa-s-Breathing-Curse)  
+
+A **3D third-person action story game** focused on skill-based combat, restraint, and consequence.  
+Currently in active development.
+
 
 ---
 
