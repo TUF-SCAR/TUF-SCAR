@@ -29,13 +29,13 @@
 
 ## 📂 Featured Projects
 
-🔒 [**Lock: Hoshikawa’s Breathing Curse**](https://github.com/TUF-SCAR/Hoshikawa-s-Breathing-Curse)  
+🔒 [**Hoshikawa’s Breathing Curse**]  
 **(Current High Priority)**  
 
 A **3D third-person action story game** with low-poly, anime-inspired visuals.  
 Built around shared combat systems, restraint-based power, and long-term consequences.
 
-🚧 Status: Core systems locked · Story & enemies in progress
+🚧 Status: Core systems locked · Story & enemies in progress · It is Private for now
 
 ---
 
